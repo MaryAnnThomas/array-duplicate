@@ -13,7 +13,7 @@ public class JavaApplication5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] a = {1,1,1,1,1,1};
+        int[] a = {1,4,2,9,9,6,3,2,1,1};
         int[] b = new int[30];
         Arrays.sort(a);
         int length = a.length;
